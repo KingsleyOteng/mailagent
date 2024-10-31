@@ -7,18 +7,18 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.Initializable;
 
-/**
- * FXML Controller class
+/*** FXML Controller class
  *
- * @author terra6partner
- */
+ * @author terra6partner */
+
 public class EmailController implements Initializable {
 
     /**
      * Initializes the controller class.
      */
     @Override
-    public void initialize(URL url, ResourceBundle rb) {
+    public void initialize(URL url, ResourceBundle rb) 
+    {
         // TODO
     }    
     
